@@ -12,7 +12,7 @@
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header text-center">
-                    CRUD Data Pemohon 
+                    CRUD Data Pemohon Sengketa
                 </div>
                 <div class="card-body">
                     <a href="/pemohon/tambah" class="btn btn-primary">Input Pemohon Baru</a>
